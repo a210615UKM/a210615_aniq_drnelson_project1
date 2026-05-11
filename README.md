@@ -389,5 +389,5 @@ This project is developed for educational purposes as part of the **TTTM2213** c
 ---
 
 <p align="center">
-  Made with ❤️ using Jetpack Compose & Kotlin
+  Made with using Jetpack Compose & Kotlin
 </p>
