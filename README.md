@@ -16,7 +16,7 @@
 - 🤝 **Volunteering** in local community events
 - 👤 **Managing profiles** with personalized experiences
 
-The app uses **Jetpack Compose** for a fully declarative UI — no XML layouts needed. Navigation between screens is handled by **Jetpack Navigation Compose**.
+The app uses **Jetpack Compose** for a fully declarative UI and no XML layouts needed. Navigation between screens is handled by **Jetpack Navigation Compose**.
 
 ---
 
